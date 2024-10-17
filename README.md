@@ -1,4 +1,4 @@
-## Hi
+## Na Yeon Park
 - nayeon03@hanyang.ac.kr
 - Data Science Major
 - Machine Learning & Artificial Intelligence
