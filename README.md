@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi
+- nayeon03@hanyang.ac.kr
+- Data Science Major
+- Machine Learning & Artificial Intelligence
+- Hanyang University, Seoul, South Korea (03/2022~ )
+- Pittsburg State University, Pittsburg, Kansas, US (08/2024 ~ 05/2025)
+
 
 <!--
 **nayeon03/nayeon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
